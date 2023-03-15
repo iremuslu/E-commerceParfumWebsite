@@ -1,0 +1,81 @@
+.card_style{
+    background-color:#f4f1de;
+    color : #6d6875;
+    margin-top: 50px;
+    width:28rem;
+    border-radius:5px;
+}
+.table_style{
+    width:30rem;
+    border-color:#6d6875 ;
+    overflow-x: hidden;
+}
+
+.background-image{
+    background-image: url("images/parfum.jpg");
+    background-color: #F4BFBF;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    top:0;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 50px;
+
+}
+.top_border{
+    margin-top: 0px;
+    background-image: url("images/b.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;  
+    width: available;
+    height: 110px;
+
+}
+
+    .basket_text_style:hover {
+        text-align: right;
+        font-size: 15px;
+        font-weight: bold;
+        color: #2E0249;
+        vertical-align: center;
+        height: 50px;
+        border:1px solid blue;
+        border-radius:12px;
+        transition: color 1s , background-color 1s;
+        background-color:#97C4B8;
+    }
+
+.cards_button_style{
+    background-color:#8CC0DE;
+    color:#f4f1de;
+}
+.image_style{
+    width: 28rem;
+    height: 27rem;
+
+}
+
+.buy_button{
+    background-color: #f4f1de;
+    color:#2E0249 ;
+}
+
+
+.categories_style{
+    color:#2E0249 ;
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+    vertical-align: center;
+    border-top: 40px;
+}
