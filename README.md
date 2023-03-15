@@ -1,1 +1,1 @@
-# An e-commerce web-site was prepared for the Dynamic Web final project.
+### An e-commerce web-site was prepared for the Dynamic Web final project.
