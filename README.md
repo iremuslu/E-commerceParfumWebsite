@@ -1,6 +1,6 @@
 ### An e-commerce web-site was prepared for the Dynamic Web final project.
 ## Used Technologies:
-#### <img align="left" alt="Visual Studio Code" width="26px" src=https://www.iconfinder.com/icons/96018/xampp_icon /> XAMPP 
+#### <img align="left" alt="XAMPP" width="26px" src="https://www.iconfinder.com/icons/96018/xampp_icon" /> XAMPP 
 #### <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> VisualStudio Code
 #### MySQL
 
